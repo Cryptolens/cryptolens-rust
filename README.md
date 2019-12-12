@@ -5,14 +5,7 @@
 This library simplifies access to the [Cryptolens Web API](https://cryptolens.io) from the
 Rust programming language.
 
-Several examples are available in the `src/bin` directory. The following commands clone the
-repository and runs `example_activate`:
-
-```
-$ git clone https://github.com/Cryptolens/cryptolens-rust.git
-$ cd cryptolens-rust/
-$ cargo run --bin example_activate
-```
+Several examples are available in the repository at [https://github.com/Cryptolens/cryptolens-rust-examples](https://github.com/Cryptolens/cryptolens-rust-examples).
 
 As long as the library is at version `0.0.X` we are not following semantic versioning. Before
 moving to version `0.1.0` at least the following needs to be implemented:
